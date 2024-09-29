@@ -1,5 +1,5 @@
 ## Hi there 👋
-this is my first git repository
+this is my first git repository.
 author - Ankit Rana
 
 <!--
