@@ -1,6 +1,7 @@
 ## Hi there 👋
-this is my first git repository.
-author - Ankit Rana
+This is my first git repository.
+<br>
+Author - Ankit Rana
 
 <!--
 **Om-Ankit/om-Ankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
